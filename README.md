@@ -15,6 +15,7 @@ my shell does the following commands:
 - clone the repo
 - `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
 - `./hsh`
+- try the commands above eg: cd [dir]
 
 ## Example:
 ```
