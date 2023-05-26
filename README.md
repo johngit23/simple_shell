@@ -1,5 +1,5 @@
 ## Builtins
-Our shell has support for the following built-in commands:
+my shell does the following commands:
 
 | Command             | Definition                                                                                |
 | ------------------- | ----------------------------------------------------------------------------------------- |
